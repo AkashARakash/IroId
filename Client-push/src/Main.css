@@ -1,0 +1,17 @@
+
+.text-center{
+    text-align: center;
+    margin-top: 60px;
+}
+.form-control{
+    text-align: center;
+}
+.next{
+    margin-left: 900px;
+    margin-top: 70px;
+    font-size: 25px;
+}
+.fas{
+    size: 500px;
+    text-align: center;
+}
